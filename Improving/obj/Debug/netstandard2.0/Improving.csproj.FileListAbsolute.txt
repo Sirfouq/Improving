@@ -1,0 +1,15 @@
+/Users/g_red/Projects/Improving/Improving/bin/Debug/netstandard2.0/Improving.deps.json
+/Users/g_red/Projects/Improving/Improving/bin/Debug/netstandard2.0/Improving.dll
+/Users/g_red/Projects/Improving/Improving/bin/Debug/netstandard2.0/ref/Improving.dll
+/Users/g_red/Projects/Improving/Improving/bin/Debug/netstandard2.0/Improving.pdb
+/Users/g_red/Projects/Improving/Improving/obj/Debug/netstandard2.0/Improving.csproj.AssemblyReference.cache
+/Users/g_red/Projects/Improving/Improving/obj/Debug/netstandard2.0/Improving.GeneratedMSBuildEditorConfig.editorconfig
+/Users/g_red/Projects/Improving/Improving/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/g_red/Projects/Improving/Improving/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/g_red/Projects/Improving/Improving/obj/Debug/netstandard2.0/Improving.AssemblyInfoInputs.cache
+/Users/g_red/Projects/Improving/Improving/obj/Debug/netstandard2.0/Improving.AssemblyInfo.cs
+/Users/g_red/Projects/Improving/Improving/obj/Debug/netstandard2.0/Improving.csproj.CoreCompileInputs.cache
+/Users/g_red/Projects/Improving/Improving/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/g_red/Projects/Improving/Improving/obj/Debug/netstandard2.0/Improving.dll
+/Users/g_red/Projects/Improving/Improving/obj/Debug/netstandard2.0/ref/Improving.dll
+/Users/g_red/Projects/Improving/Improving/obj/Debug/netstandard2.0/Improving.pdb
