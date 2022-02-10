@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.810.17
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Improving.Android", "Improving.Android\Improving.Android.csproj", "{EF16FC73-F4AE-4299-9193-A38937383E74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Improving", "Improving\Improving.csproj", "{184F0552-541E-425F-9968-B0540B4A96A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Improving", "Improving\Improving.csproj", "{184F0552-541E-425F-9968-B0540B4A96A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +15,7 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{EF16FC73-F4AE-4299-9193-A38937383E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EF16FC73-F4AE-4299-9193-A38937383E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF16FC73-F4AE-4299-9193-A38937383E74}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{EF16FC73-F4AE-4299-9193-A38937383E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF16FC73-F4AE-4299-9193-A38937383E74}.Release|Any CPU.Build.0 = Release|Any CPU
 		{184F0552-541E-425F-9968-B0540B4A96A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU

@@ -5,53 +5,38 @@
 
    
     <StackLayout>
-        <Frame BackgroundColor="#66a3a3" Padding="0" CornerRadius="0">
+        <Frame BackgroundColor="#216E8B" Padding="0" CornerRadius="0">
             <Label Text="Welcome" HorizontalTextAlignment="Center" TextColor="White" FontSize="36" FontFamily="Rowdies-Light"/>
         </Frame>
-        <Frame Padding="0" CornerRadius="10" BorderColor="#617487" >
+        
         <Entry x:Name="User"
                TextColor="#a4aeba"
                Placeholder="User:"
                PlaceholderColor="#a4aeba"
-               VerticalOptions="CenterAndExpand"
+               VerticalOptions="Start"
                />
-         </Frame>
-        <Frame Padding="0" CornerRadius="10" BorderColor="#617487" >
+         
+        
         <Entry x:Name="Pass"
                TextColor="#a4aeba" 
                Placeholder="Pass:"
                PlaceholderColor="#a4aeba"
                IsPassword="True"
-               VerticalOptions="CenterAndExpand"
+               VerticalOptions="Center"
                />
-            </Frame>
+            
         <Button Text="Register"
                 x:Name="btnRegister"
                 HorizontalOptions="CenterAndExpand"
                 VerticalOptions="CenterAndExpand"
                 TextColor="White"
-                BackgroundColor="#66a3a3"
+                BackgroundColor="#216E8B"
                 CornerRadius="20"
                 Clicked="OnButtonClicked">
                 
                 
         </Button>
-        <ListView x:Name="CustomerListView"
-                  BackgroundColor="White"
-                  SelectionMode="None"
-                  Footer="">
-            <ListView.ItemTemplate>
-                <DataTemplate>
-                    <ViewCell>
-                        <StackLayout Orientation="Horizontal" Margin="0,10">
-                            <Label Text="{Binding Username}" FontSize="15"/>
-                            <Label Text="{Binding Password}" FontSize="15"/>
-                        </StackLayout>
-                    </ViewCell>
-                </DataTemplate>
-            </ListView.ItemTemplate>
-
-        </ListView>
+        
     </StackLayout>
  
 

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Improving.StorePage"
+             >
+    <ContentPage.Content >
+        <StackLayout >
+            <ListView x:Name="CustomerListView"
+                  BackgroundColor="White"
+                  SelectionMode="None"
+                  Footer="">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal" Margin="0,10">
+                                <Label Text="{Binding Username}" FontSize="15"/>
+                                <Label Text="{Binding Password}" FontSize="15"/>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -13,9 +13,14 @@ namespace Improving
         public MainPage()
         {
             InitializeComponent();
+            btnRegister.Clicked += Navi;
+            
             
         }
-
+        public void Navi(object sender,EventArgs e)
+        {
+            Navigation.PushAsync(new StorePage());
+        }
         public async void OnButtonClicked(object sender,EventArgs e)
         {
             if (!string.IsNullOrWhiteSpace(User.Text) && !string.IsNullOrWhiteSpace(Pass.Text))
@@ -27,7 +32,7 @@ namespace Improving
                     Password = Pass.Text
                 });
                 User.Text = Pass.Text = string.Empty;
-                CustomerListView.ItemsSource = await App.Database.GetPeopleAsync();
+                
             }
         }
     }
