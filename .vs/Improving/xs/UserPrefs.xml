@@ -1,0 +1,39 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{EF16FC73-F4AE-4299-9193-A38937383E74}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Improving/Models/Customer.cs">
+    <Files>
+      <File FileName="Improving/Models/Customer.cs" Line="10" Column="6" />
+      <File FileName="Improving/App.xaml.cs" />
+      <File FileName="Improving/Database.cs" />
+      <File FileName="Improving/App.xaml" />
+      <File FileName="Improving/MainPage.xaml" />
+      <File FileName="Improving/MainPage.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Improving" expanded="True">
+            <Node name="Improving" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Customer.cs" selected="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="Improving.Android" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Assets" expanded="True" />
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Improving.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

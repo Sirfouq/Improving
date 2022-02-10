@@ -845,11 +845,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/g_red/Projects/Improving/Improving/Improving.csproj",
+      "projectUniqueName": "/Users/g_red/Improving/Improving/Improving.csproj",
       "projectName": "Improving",
-      "projectPath": "/Users/g_red/Projects/Improving/Improving/Improving.csproj",
+      "projectPath": "/Users/g_red/Improving/Improving/Improving.csproj",
       "packagesPath": "/Users/g_red/.nuget/packages/",
-      "outputPath": "/Users/g_red/Projects/Improving/Improving/obj/",
+      "outputPath": "/Users/g_red/Improving/Improving/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/g_red/.config/NuGet/NuGet.Config"

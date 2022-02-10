@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J+hiXMv8jzwcIwTf0deaHBCT8B5FpTAF6UtGFW1qTrYwNrbJE4KTDnup38nUd5bHfZhPalGLxyghqmmoppsvng==",
+  "dgSpecHash": "LHhb6Wl5UiFbhDu/B5wnDcL/RyPK0h78ZAwqB8NRNp1iDwv+u9gsqFcWl/dxN6bs3FdjpldSTLtN3ughpBaQgw==",
   "success": true,
-  "projectFilePath": "/Users/g_red/Projects/Improving/Improving.Android/Improving.Android.csproj",
+  "projectFilePath": "/Users/g_red/Improving/Improving.Android/Improving.Android.csproj",
   "expectedPackageFiles": [
     "/Users/g_red/.nuget/packages/sqlite-net-pcl/1.8.116/sqlite-net-pcl.1.8.116.nupkg.sha512",
     "/Users/g_red/.nuget/packages/sqlitepclraw.bundle_green/2.0.4/sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/ugrrEeHQuoweGCIn+zyk7KDaSWkMEyOCCYKEHTCAn/4X08gAVKCEiWIGPd5VTsikOHbKnuypV2ukY6UUgflyQ==",
+  "dgSpecHash": "3mR9mEQffwA6rVjWREx9ejGh9TBWV3Ddx2HRo3D39hPXkgFRduShU2IkB5Z7qG14vYQmkE7S/m0UlNLMyHe5sA==",
   "success": true,
-  "projectFilePath": "/Users/g_red/Projects/Improving/Improving/Improving.csproj",
+  "projectFilePath": "/Users/g_red/Improving/Improving/Improving.csproj",
   "expectedPackageFiles": [
     "/Users/g_red/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/g_red/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
